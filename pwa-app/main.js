@@ -1,5 +1,4 @@
-//const apiBaseUrl = 'http://localhost:8000/api';
-const apiBaseUrl = 'http://192.168.1.10:8000/api';
+const apiBaseUrl = 'http://localhost:8000/api';
 
 document.addEventListener('DOMContentLoaded', () => {
     const loginForm = document.getElementById('loginForm');
