@@ -1,4 +1,4 @@
-Progressive web app demonstrating polling of notifications
+Progressive web app demonstrating periodic polling of notifications
 
 Backend: Laravel 11
 
